@@ -1,1 +1,3 @@
 Example of file1.md of example 1 of the About Git guide
+
+Edições do example 3 do About Git guide
